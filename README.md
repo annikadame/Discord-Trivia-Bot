@@ -25,7 +25,7 @@ A Discord bot that runs multiplayer trivia games using the Open Trivia Database 
 ## Getting Started
 
 1. Clone the repo:
-```bash
+bash
 git clone https://github.com/annikadame/Discord-Trivia-Bot.git
 cd Discord-Trivia-Bot
 
