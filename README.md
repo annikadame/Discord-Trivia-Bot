@@ -24,17 +24,16 @@ A Discord bot that runs multiplayer trivia games using the Open Trivia Database 
 
 ## Getting Started
 
-1. Clone the repo:
-bash
-git clone https://github.com/annikadame/Discord-Trivia-Bot.git
-cd Discord-Trivia-Bot
+1. Clone the repo:  
+git clone https://github.com/annikadame/Discord-Trivia-Bot.git  
+cd Discord-Trivia-Bot  
 
-2. Install Dependencies:
-pip install -r requirements.txt
+2. Install dependencies:  
+pip install -r requirements.txt  
 
-3. Create a .env with your Discord bot token
-Important: To run the bot, you will need your own Discord bot token in a `.env` file. The `.env` file containing my token is not included for security reasons.
-DISCORD_TOKEN=your_token_here
+3. Create a `.env` file with your Discord bot token. You will need your own Discord bot token in a .env file. The .env file containing my token is not included for security reasons. 
+Format the file like this:  
+DISCORD_TOKEN=your_token_here  
 
-4. Run the bot
+4. Run the bot:  
 python bot.py
